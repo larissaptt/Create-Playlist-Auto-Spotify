@@ -4,10 +4,9 @@ Este projeto automatiza a criação de playlists no Spotify utilizando Python. O
 
 ⚠️ **Importante**: Antes de executar o script principal, ajuste as coordenadas do mouse para que correspondam ao layout de tela do seu dispositivo, pois diferenças de resolução e tamanho de tela podem causar erros. Um arquivo auxiliar está incluído para facilitar a obtenção dessas coordenadas.
 
-## Requisitos
+## Requisito
 
 - Python 3.x
-- [pynput](https://pypi.org/project/pynput/) (instalado automaticamente via `requirements.txt`)
 
 ## Instalação
 
