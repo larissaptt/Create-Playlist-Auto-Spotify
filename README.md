@@ -1,7 +1,3 @@
-Sim! Vou ajustar o README para que o arquivo auxiliar seja apresentado como um link relativo, o que facilita o acesso diretamente pelo GitHub:
-
----
-
 # Spotify Playlist Automator
 
 Este projeto automatiza a criação de playlists no Spotify utilizando Python. O script usa coordenadas do mouse e comandos de teclado para interagir com o Spotify e adicionar músicas a uma nova playlist automaticamente. 
@@ -89,7 +85,3 @@ Se você deseja contribuir com melhorias, fique à vontade para enviar pull requ
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
---- 
-
-Agora o arquivo `coordenadas_mouse.py` é apresentado como um link interno, facilitando o acesso direto pelo GitHub.
