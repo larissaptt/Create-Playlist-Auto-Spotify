@@ -1,7 +1,3 @@
-Aqui está a versão formatada e adequada para o README no GitHub:
-
----
-
 # Spotify Playlist Automator
 
 Este projeto automatiza a criação de playlists no Spotify utilizando Python. O script usa coordenadas do mouse e comandos de teclado para interagir com o Spotify e adicionar músicas a uma nova playlist automaticamente. 
@@ -77,7 +73,3 @@ Se você deseja contribuir com melhorias, fique à vontade para enviar pull requ
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Este texto está otimizado para GitHub, com instruções claras e um fluxo estruturado para guiar o usuário no uso e contribuição do projeto.
